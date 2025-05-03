@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/screenshots/Untitled.png?raw=true" alt="project-screenshot" width="600" height="400/">  
+[https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Untitled.png](https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Untitled.png)
   
 <h2>🧐 Features</h2>
 
