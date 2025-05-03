@@ -10,17 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Screenshot_2021-10-05-18-37-20-61_6409b7512cbeeae2c1f0ef88e4430faf.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
-
-<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Screenshot_2021-10-05-18-37-24-07_6409b7512cbeeae2c1f0ef88e4430faf.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
-
-<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Screenshot_2021-10-05-18-37-32-82_6409b7512cbeeae2c1f0ef88e4430faf.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
-
-<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Screenshot_2021-10-05-18-37-44-50_6409b7512cbeeae2c1f0ef88e4430faf.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
-
-<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/Screenshot_2021-10-05-18-37-47-75_6409b7512cbeeae2c1f0ef88e4430faf.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
-
-  
+<img src="https://github.com/zeyadmamoun/FlashChat/blob/main/screenshots/screenshots/Untitled.png?raw=true" alt="project-screenshot" width="600" height="400/">  
   
 <h2>🧐 Features</h2>
 
